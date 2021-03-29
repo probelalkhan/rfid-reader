@@ -1,0 +1,4 @@
+include ':Rfid.AsciiProtocol-Library'
+include ':DeviceList'
+include ':app'
+rootProject.name = "RFID-Reader"
